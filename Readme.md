@@ -19,7 +19,11 @@ Git
 AWS 
 
 ⚡ Project Stack
+ flipkart-scraper
+ 
+ Weather
 
+ Uploader_S3
 
 ⚡ Github Stat
 
