@@ -2,7 +2,7 @@
 
 ⚡ Tech Stack
 
-**Javascript/Typescript
+Javascript/Typescript
 
 NodeJS
 
@@ -16,7 +16,7 @@ REST
 
 Git
 
-AWS **
+AWS 
 
 ⚡ Project Stack
 
